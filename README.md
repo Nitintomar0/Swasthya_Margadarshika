@@ -149,4 +149,3 @@ Here are previews of the Swasthya Margadarshika application:
 **Swasthya Margadarshika** is designed for informational and educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult qualified healthcare professionals for any medical concerns or before making health-related decisions. The predictions and recommendations provided by this system should not be considered as medical diagnoses.
 
 ---
-*Take charge of your health with Swasthya Margadarshika. Your well-being is our priority!*
